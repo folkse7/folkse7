@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /dummy.html/
+Sitemap: http://folkse7.github.io/sitemap.xml
